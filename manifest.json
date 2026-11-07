@@ -1,0 +1,24 @@
+{
+  "manifest_version": "1.0",
+  "org": "litestar-org",
+  "repo": "litestar-docs-preview",
+  "versions": [
+    {
+      "commit": "fe3e255ba405e7f4aad6021d2fcb2498a9f65e25",
+      "parsed_at": "2026-11-07T01:26:19.038865+00:00",
+      "filetree": "filetree/fe3e255ba405e7f4aad6021d2fcb2498a9f65e25.nq.gz",
+      "blobs": [
+        "blob/63dbb0ffb8198cd62b4250f6ea22e8544fe26d53.nq.gz",
+        "blob/68bc17f9ff2104a9d7b6777058bb4c343ca72609.nq.gz",
+        "blob/c5ba3b7ec0be0ed3f0ee09b5364ece3b20321bd3.nq.gz",
+        "blob/bbbe1a2e09f6b55f2e814c14a7f496a5fe4944bf.nq.gz",
+        "blob/fe8eadb8b73ebd79d4019f1f614215d68f1c8f81.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
